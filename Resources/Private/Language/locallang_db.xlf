@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-12-23T04:02:21Z" product-name="cmsp">
+		<header/>
+		<body>
+			<trans-unit id="tx_cmsp_domain_model_user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_domain_model_user.user_search">
+				<source>User Search</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_domain_model_requestsearch">
+				<source>Request Search</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_domain_model_requestsearch.search_user">
+				<source>Search User</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_domain_model_requestsearch.search_entry">
+				<source>Search Entry</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_domain_model_requestentry">
+				<source>Request Entry</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_domain_model_requestentry.entry_search">
+				<source>Entry Search</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_cmspfe.name">
+				<source>spFrontend</source>
+			</trans-unit>
+			<trans-unit id="tx_cmsp_cmspfe.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

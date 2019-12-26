@@ -1,0 +1,17 @@
+mod.wizards {
+    newContentElement.wizardItems {
+        plugins {
+            elements {
+                example_registration {
+                    iconIdentifier = example-registration
+                    title = Simple Parser
+                    description = Create a registration form
+                    tt_content_defValues {
+                        CType = list
+                        list_type = example_registration
+                    }
+                }
+            }
+        }
+    }
+}
